@@ -1,2 +1,2 @@
 # Method-Design
-![UML](https://github.com/user-attachments/assets/749ff5e5-9cd1-4a58-bf0c-a21de47fe7f3)
+![UML2](https://github.com/user-attachments/assets/36ee6d6b-e9ce-41fc-a465-8854141ba424)
